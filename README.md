@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Sharma</h1>
 <h3 align="center">An average Engineering student.</h3>
-<img align="right" alt="coding" width="600" src="https://gifdb.com/images/file/binary-blue-coding-pfgrdx1haxky7pzy.gif">
+<img align="right" alt="coding" width="300" src="https://gifdb.com/images/file/binary-blue-coding-pfgrdx1haxky7pzy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityasharmax&label=Profile%20views&color=0e75b6&style=flat" alt="aadityasharmax" /> </p>
 
