@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Sharma</h1>
 <h3 align="center">A Software Engineering student.</h3>
-<img align="right" alt="coding" height="400" width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN2cDZkY2x2NzZ0ajExMW8xcmd6eW10bW54dDNmY3FtdWxuZ3RncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img align="right" alt="coding" height="400" width="600" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b7611fsvp6dclv76tj111o1rgzymtmnxt3fcqmulngtgq&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityasharmax&label=Profile%20views&color=0e75b6&style=flat" alt="aadityasharmax" /> </p>
 
